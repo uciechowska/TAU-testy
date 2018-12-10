@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <CAR  AVAILABILITY="false" CARBRAND="Mercedes" YEAROFRENT="0"/>
+  <CAR  AVAILABILITY="false" CARBRAND="Fiat" YEAROFRENT="0"/>
+  <CAR  AVAILABILITY="false" CARBRAND="Ford" YEAROFRENT="0"/>
+  <CUSTOMER/>
+</dataset>
